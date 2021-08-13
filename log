@@ -1,0 +1,369 @@
++++++++ BEGIN (process id 14000) ++++++++
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay only option results in no host candidate for IP4:192.168.1.5:0/UDP
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay/proxy only option results in ICE TCP being disabled
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay only option results in no host candidate for IP4:192.168.1.5:0/UDP
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay/proxy only option results in ICE TCP being disabled
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay only option results in no host candidate for IP4:192.168.1.5:0/UDP
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay/proxy only option results in ICE TCP being disabled
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay only option results in no host candidate for IP4:192.168.1.5:0/UDP
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): relay/proxy only option results in ICE TCP being disabled
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): Skipping TURN server because of address type mis-match
+
+(generic/INFO) Write buffer not empty for IP4:0.0.0.0:5349/TCP 44 - already armed (@244214977e4), not connected
+
+(generic/INFO) Invoking writable_cb on connected (44)
+
+(generic/INFO) Writable_cb IP4:0.0.0.0:5349/TCP (0 (244214977e4) pending)
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Succesfully allocated addr IP4:10.0.0.80:50427/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Succesfully allocated addr IP4:10.0.0.80:50559/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): Succesfully allocated addr IP4:10.0.0.80:50285/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Succesfully allocated addr IP4:10.0.0.80:50221/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)): Succesfully allocated addr IP4:10.0.0.80:50552/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)): Succesfully allocated addr IP4:10.0.0.80:50718/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)): Succesfully allocated addr IP4:10.0.0.80:50678/UDP lifetime=3600
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Error processing response: Retry may be possible, stun error code 401.
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Succesfully allocated addr IP4:10.0.0.80:50476/UDP lifetime=3600
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): All candidates initialized
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) has no stream matching stream PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/WARNING) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) has no stream matching stream PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_1 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54764/UDP|IP4:0.0.0.0:5349/UDP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54765/UDP|IP4:0.0.0.0:5349/UDP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): deallocating
+
+(ice/NOTICE) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) no streams with non-empty check lists
+
+(ice/NOTICE) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) no streams with pre-answer requests
+
+(ice/NOTICE) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) no checks to start
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/NOTICE) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) is now checking
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(JN5a): setting pair to state FROZEN: JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(JN5a): Pairing candidate IP4:10.0.0.80:50285/UDP (57f1fff):IP4:26.121.157.72:38890/UDP (7e7c1eff) priority=396070476553141758 (57f1ffffcf83dfe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(JN5a): setting pair to state WAITING: JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(JN5a): setting pair to state IN_PROGRESS: JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): Creating permission for IP4:26.121.157.72:38890/UDP
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(pp61): setting pair to state FROZEN: pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(pp61): Pairing candidate IP4:10.0.0.80:50559/UDP (7f1fff):IP4:26.121.157.72:38890/UDP (7e7c1eff) priority=35782506363502078 (7f1ffffcf83dfe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(pp61): setting pair to state WAITING: pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(pp61): setting pair to state IN_PROGRESS: pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Creating permission for IP4:26.121.157.72:38890/UDP
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8GF5): setting pair to state FROZEN: 8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(8GF5): Pairing candidate IP4:10.0.0.80:50285/UDP (57f1fff):IP4:157.46.87.73:38890/UDP (647c1eff) priority=396070475680726526 (57f1fffc8f83dfe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Starting check timer for stream.
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8GF5): setting pair to state WAITING: 8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8GF5): setting pair to state IN_PROGRESS: 8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): Creating permission for IP4:157.46.87.73:38890/UDP
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(28Us): setting pair to state FROZEN: 28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(28Us): Pairing candidate IP4:10.0.0.80:50559/UDP (7f1fff):IP4:157.46.87.73:38890/UDP (647c1eff) priority=35782505491086846 (7f1fffc8f83dfe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(cWHk): setting pair to state FROZEN: cWHk|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(cWHk): Pairing candidate IP4:10.0.0.80:50285/UDP (57f1fff):IP4:10.0.0.80:50171/UDP (27c1fff) priority=179053265449533439 (27c1fff0afe3fff)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8Wej): setting pair to state FROZEN: 8Wej|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(8Wej): Pairing candidate IP4:10.0.0.80:50559/UDP (7f1fff):IP4:10.0.0.80:50171/UDP (27c1fff) priority=35782502202753022 (7f1fff04f83ffe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(PlbC): setting pair to state FROZEN: PlbC|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(PlbC): Pairing candidate IP4:10.0.0.80:50285/UDP (57f1fff):IP4:10.0.0.80:50677/UDP (17c1eff) priority=106994571899977727 (17c1eff0afe3fff)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(1ong): setting pair to state FROZEN: 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/CAND-PAIR(1ong): Pairing candidate IP4:10.0.0.80:50559/UDP (7f1fff):IP4:10.0.0.80:50677/UDP (17c1eff) priority=35782502169198078 (7f1fff02f83dfe)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(cWHk): setting pair to state WAITING: cWHk|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(cWHk): setting pair to state IN_PROGRESS: cWHk|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): Creating permission for IP4:10.0.0.80:50171/UDP
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(PlbC): setting pair to state WAITING: PlbC|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(PlbC): setting pair to state IN_PROGRESS: PlbC|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)::TURN): Error processing response: Retry may be possible, stun error code 403.
+
+(turn/WARNING) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): mode 25, permission denied
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(28Us): setting pair to state WAITING: 28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(28Us): setting pair to state IN_PROGRESS: 28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Creating permission for IP4:157.46.87.73:38890/UDP
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8Wej): setting pair to state WAITING: 8Wej|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8Wej): setting pair to state IN_PROGRESS: 8Wej|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): Creating permission for IP4:10.0.0.80:50171/UDP
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(cWHk): setting pair to state FAILED: cWHk|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(stun/INFO) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Received response; processing
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): nr_stun_process_error_response failed
+
+(stun/WARNING) STUN-CLIENT(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)::TURN): Error processing response: Retry may be possible, stun error code 403.
+
+(turn/WARNING) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): mode 25, permission denied
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(1ong): setting pair to state WAITING: 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(1ong): setting pair to state IN_PROGRESS: 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(1ong): setting pair to state FAILED: 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(1ong): setting pair to state FAILED: 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(PlbC): setting pair to state FAILED: PlbC|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): no FROZEN/WAITING pairs for PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8Wej): setting pair to state FAILED: 8Wej|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288): peer (PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default) Trickle grace period is over; marking every component with only failed pairs as failed.
+
+(stun/INFO) STUN-CLIENT(JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)): Timed out
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(JN5a): setting pair to state FAILED: JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(stun/INFO) STUN-CLIENT(pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)): Timed out
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(pp61): setting pair to state FAILED: pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(stun/INFO) STUN-CLIENT(8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)): Timed out
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(8GF5): setting pair to state FAILED: 8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(stun/INFO) STUN-CLIENT(28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)): Timed out
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/CAND-PAIR(28Us): setting pair to state FAILED: 28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900)
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/COMP(1): All pairs are failed, and grace period has elapsed. Marking component as failed.
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): state dump
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Local component 1 - dumping candidates
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(ZSG2): turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(WIQH): turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Local component 2 - dumping candidates
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(eNwD): turn-relay(IP4:192.168.1.5:54763/UDP|IP4:10.0.0.80:50552/UDP)
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(WIQH): turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50427/UDP)
+
+(ice/ERR) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default)/STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): state dump
+
+(ice/ERR) CAND-PAIR(JN5a): pair JN5a|IP4:10.0.0.80:50285/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x57f1ffffcf83dfe
+
+(ice/ERR) CAND-PAIR(8GF5): pair 8GF5|IP4:10.0.0.80:50285/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x57f1fffc8f83dfe
+
+(ice/ERR) CAND-PAIR(cWHk): pair cWHk|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x27c1fff0afe3fff
+
+(ice/ERR) CAND-PAIR(PlbC): pair PlbC|IP4:10.0.0.80:50285/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:54762/UDP|IP4:10.0.0.80:50285/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x17c1eff0afe3fff
+
+(ice/ERR) CAND-PAIR(pp61): pair pp61|IP4:10.0.0.80:50559/UDP|IP4:26.121.157.72:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x7f1ffffcf83dfe
+
+(ice/ERR) CAND-PAIR(28Us): pair 28Us|IP4:10.0.0.80:50559/UDP|IP4:157.46.87.73:38890/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x7f1fffc8f83dfe
+
+(ice/ERR) CAND-PAIR(8Wej): pair 8Wej|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50171/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x7f1fff04f83ffe
+
+(ice/ERR) CAND-PAIR(1ong): pair 1ong|IP4:10.0.0.80:50559/UDP|IP4:10.0.0.80:50677/UDP(turn-relay(IP4:192.168.1.5:0/TCP|IP4:10.0.0.80:50559/UDP)|candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900): state=FAILED, priority=0x7f1fff02f83dfe
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Remote component 1 in state 3 - dumping candidates
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(XPQ5): candidate:248741856 1 udp 2122197247 2409:4072:6c13:3369:1024:f4a0:23a8:a988 41038 typ host generation 0 ufrag 4Blc network-id 5 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(ijiy): candidate:2317101527 1 udp 2122063615 26.121.157.72 38890 typ host generation 0 ufrag 4Blc network-id 6 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(i9h9): candidate:559267639 1 udp 2122005759 ::1 42058 typ host generation 0 ufrag 4Blc network-id 2
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(k+7N): candidate:1510613869 1 udp 2121932543 127.0.0.1 40443 typ host generation 0 ufrag 4Blc network-id 1
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(o8wu): candidate:3328035440 1 tcp 1518283007 2409:4032:6c9b:6d82:e0ca:c9f1:3a8b:646e 9 typ host tcptype active generation 0 ufrag 4Blc network-id 4 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(Qg3a): candidate:2951890100 1 tcp 1518149375 10.188.147.118 9 typ host tcptype active generation 0 ufrag 4Blc network-id 3 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(1bHG): candidate:1876313031 1 tcp 1518025983 ::1 49173 typ host tcptype passive generation 0 ufrag 4Blc network-id 2
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(7dUz): candidate:344579997 1 tcp 1517952767 127.0.0.1 40047 typ host tcptype passive generation 0 ufrag 4Blc network-id 1
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(KkZb): candidate:842163049 1 udp 1685855999 157.46.87.73 38890 typ srflx raddr 26.121.157.72 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(LKdV): candidate:2250601638 1 udp 41689087 10.0.0.80 50171 typ relay raddr 157.46.87.73 rport 38890 generation 0 ufrag 4Blc network-id 6 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a)/CAND(lfU1): candidate:3366357078 1 udp 24911615 10.0.0.80 50677 typ relay raddr 157.46.87.73 rport 40403 generation 0 ufrag 4Blc network-id 6 network-cost 900
+
+(ice/ERR) ICE(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288)/ICE-STREAM(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288 transport-id=transport_0 - 17cd4189:8ff06f39c85f18f63b0e33554b11fe7a): Remote component 2 in state 0 - dumping candidates
+
+(ice/INFO) ICE-PEER(PC:{295f41eb-665e-416b-8a29-f330d21f9050} 1628843143089000 (id=6442450945 url=https://app.element.io/?pk_vid=38486a25e6cafdef16288:default): all checks completed success=0 fail=1
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54762/UDP|IP4:0.0.0.0:5349/UDP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:54763/UDP|IP4:0.0.0.0:5349/UDP)): deallocating
+
+(turn/INFO) TURN(relay(IP4:192.168.1.5:0/TCP|IP4:0.0.0.0:5349/TCP)): deallocating
+
++++++++ END (process id 14000) ++++++++
